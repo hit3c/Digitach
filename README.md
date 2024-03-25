@@ -1,5 +1,5 @@
-# Digitatch
-Digitatch - Digitakt Attachment Modification
+# Digitach
+Digitach - Digitakt Attachment Modification
 
 Features:
 - Built in speakers
