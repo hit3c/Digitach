@@ -1,13 +1,26 @@
 # Digitach
-Digitach - Digitakt Attachment Modification
+Turn your Digitakt into a portable powerhouse with Digitach, a creative attachment mod you can build yourself!
 
-Features:
-- Built in speakers
-- Battery Powered
-- On/Off Switch
-- Volume Control
-- Snap and Sturdy connection
-- Features a cold shoe mount, for more flexibility.
+What it Does:
+
+- Built-in Speakers: Blast your beats anywhere with the integrated speakers.
+
+- Battery Powered: Ditch the cables and create music on the go!
+
+- On/Off Switch and Volume Control: Full control over your sound. ️
+
+- Snap-on Connection: Attaches securely and detaches easily.
+
+- Cold Shoe Mount: Add lights, mics, or other accessories for ultimate flexibility.
+
+Perfect for:
+
+- Live performances
+
+- Jam sessions on the go
+
+- Portable music creation ️
+
 
 Part List:
 - DROK 12V Amplifier Board, 15W https://a.co/d/bIXTjAL
@@ -26,6 +39,9 @@ Anything Helps!
 
 Download the 3d Print file:
 https://www.printables.com/model/820051-digitach-v15/files
+
+Video: 
+https://youtu.be/3P32l7BHFyw
 
 Drawings:
 
